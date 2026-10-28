@@ -3,11 +3,11 @@ package com.springcore.datastructure.stack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MyStack {
+public class StackWithArrayList {
 	
 	private List<Object> list = new ArrayList<Object>();
 
-	public MyStack() {
+	public StackWithArrayList() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
@@ -41,4 +41,6 @@ public class MyStack {
 	public int size() {
 		return list.size();
 	}
+	
+	
 }

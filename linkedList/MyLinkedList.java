@@ -3,7 +3,7 @@ package com.springcore.datastructure.linkedList;
 
 public class MyLinkedList {
 
-	private MyNode head;
+	public MyNode head;
 
 	public boolean isEmpty() {
 		return head == null;

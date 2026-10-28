@@ -2,7 +2,7 @@ package com.springcore.datastructure.stack;
 
 import java.util.ArrayList;
 
-public class InheritedStack extends ArrayList<Object> {
+public class StackInheritArrayList extends ArrayList<Object> {
 
 	/**
 	 * 
