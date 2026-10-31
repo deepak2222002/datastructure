@@ -4,9 +4,6 @@ import java.util.ArrayList;
 
 public class StackInheritArrayList extends ArrayList<Object> {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public boolean isEmpty() {
